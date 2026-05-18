@@ -1,16 +1,20 @@
-## Hi there 👋
+# Tebogo Sebopela
 
-<!--
-**DarkAzureII/DarkAzureII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer focused on frontend engineering, full-stack web applications, and systems programming.
 
-Here are some ideas to get you started:
+## Technologies
+- React
+- TypeScript
+- Java
+- Rust
+- Firebase
+- PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- Building full-stack applications
+- Exploring ECS architecture with Rust + Bevy
+- Improving backend and systems design skills
+
+## Projects
+- Portfolio: tebogosebopela.site
+- Production App: taepclemmy.co.za
